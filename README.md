@@ -21,4 +21,4 @@ See the [notebook](notebook.ipynb) for examples of usage.
 
 # Credits
 
-The notebook is from Valentin Emiya
+The notebook is from Valentin Emiya.
