@@ -1,4 +1,4 @@
-A collection of implementations of the bandit problem.
+A collection of implementations of the bandit problem (school project, Reinforcement Learning class, 2018).
 
 # Features
 
